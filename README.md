@@ -1,2 +1,2 @@
-site_lesson
+lesson_site
 ===========
