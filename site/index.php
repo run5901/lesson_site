@@ -6,15 +6,14 @@
 		<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.11.0/build/cssreset/cssreset-min.css">
 		<link rel="stylesheet" type="text/css" href="test.css">
 	</head>
-		<body id="load">
-			<div id="container">
+	<body id="load">
+		<div id="container">
 			<div id="header">
 				<h1><div id="mainPicture"></div></h1>
 			</div>
 			<div id="right">></div>
 			<div id="left"><</div>
-			<div id="thumbArea">
-			</div>
+			<div id="thumbArea"></div>
 			<div id="menu">
 				<ul>
 					<li><a href="">TOPICS</a></li>
@@ -26,7 +25,7 @@
 			</div><!-- "#menu" -->
 			
 			<div id="main">
-			
+		
 				<div id="contents">
 					<h2>TOPICS</h2>
 						<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
@@ -51,8 +50,8 @@
 							<img src="../picture/a7x.jpeg" width="60" height="60">
 							<p>補足！</p>
 						</div>
-						<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
-						<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
+					<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
+					<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
 					
 				</div><!-- "#contents" -->
 			
@@ -66,8 +65,8 @@
 			</div><!-- "#main" -->	
 			<div id="footer">2013-08-27 A7x "http://csscite/cite.php"</div>
 			
-			</div><!-- "#container" -->
-			<script src="../jquery_file/jquery-1.10.2.js"></script>
-			<script type="text/javascript" src="slideShow.js"></script>
-		</body>
+		</div><!-- "#container" -->
+		<script src="../jquery_file/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="slideShow.js"></script>
+	</body>
 </html>
