@@ -1,7 +1,7 @@
 /* test.css */
 
 html {
-	background-image: url('/site_lesson/picture/A7x2.jpg');
+	background-image: url('../picture/A7x2.jpg');
 	background-position: center top;
 	background-size: cover;
 	height: 100%;
