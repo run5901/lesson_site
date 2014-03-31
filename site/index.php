@@ -4,7 +4,7 @@
 		<title>レイアウト練習</title>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.11.0/build/cssreset/cssreset-min.css">
-		<link rel="stylesheet" type="text/css" href="/site_lesson/site/test.css">
+		<link rel="stylesheet" type="text/css" href="test.css">
 	</head>
 		<body id="load">
 			<div id="container">
@@ -33,22 +33,22 @@
 						<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
 					<ul class="products">
 						<li>
-							<img src="/site_lesson/picture/a7x.jpeg" width="80" height="80">
+							<img src="../picture/a7x.jpeg" width="100" height="80">
 							<p>説明です。説明です。説明です。説明です。説明です。説明です。説明です。説明です。</p>
 						</li>
 						<li>
-							<img src="/site_lesson/picture/a7x.jpeg" width="80" height="80">
+							<img src="../picture/a7x.jpeg" width="80" height="80">
 							<p>説明です。説明です。説明です。説明です。説明です。説明です。説明です。説明です。</p>
 						</li>
 						<li>
-							<img src="/site_lesson/picture/a7x.jpeg" width="80" height="80">
+							<img src="../picture/a7x.jpeg" width="80" height="80">
 							<p>説明です。説明です。説明です。説明です。説明です。説明です。説明です。説明です。</p>
 						</li>
 					</ul><!-- ".products" -->
 					<h2>見出し</h2>
 						<div class="sample">
 							<span class="badge">new!</span>
-							<img src="/site_lesson/picture/a7x.jpeg" width="60" height="60">
+							<img src="../picture/a7x.jpeg" width="60" height="60">
 							<p>補足！</p>
 						</div>
 						<p>こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。こんにちは。</p>
@@ -67,7 +67,7 @@
 			<div id="footer">2013-08-27 A7x "http://csscite/cite.php"</div>
 			
 			</div><!-- "#container" -->
-			<script src="/site_lesson/jquery_file/jquery-1.10.2.js"></script>
-				<script type="text/javascript" src="/site_lesson/site/slideShow.js"></script>
+			<script src="../jquery_file/jquery-1.10.2.js"></script>
+			<script type="text/javascript" src="slideShow.js"></script>
 		</body>
 </html>
