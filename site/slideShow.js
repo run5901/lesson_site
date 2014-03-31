@@ -1,9 +1,9 @@
 $(function() {
 						//写真を配列に入れる。
 						var files = [
-							'/site_lesson/picture/sample_0.jpg',
-							'/site_lesson/picture/sample_1.jpg',
-							'/site_lesson/picture/sample_2.jpg'
+							'../picture/sample_0.jpg',
+							'../picture/sample_1.jpg',
+							'../picture/sample_2.jpg'
 						];
 						//変数準備
 						var img;
